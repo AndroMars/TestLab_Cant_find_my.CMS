@@ -21,3 +21,5 @@ $hallo2 = new Hallo("Georg", "Haus2");
 
 $hallo2->call();
 $hallo1->call();
+
+
